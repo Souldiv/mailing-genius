@@ -7,7 +7,7 @@
 	pip install requirements.txt
 ```
 
-## Sample Usage
+## Sendgrid API
 
 ```
 	>>> from sendmails import send_mails
